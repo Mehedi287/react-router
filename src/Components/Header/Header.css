@@ -1,0 +1,13 @@
+.header{
+    border: 1px solid blue;
+    background-color: burlywood;
+    padding: 20px;
+  
+}
+.link{
+    color: black;
+    margin: 20px;
+    font-size: 20px;
+    font-weight: 700;
+    text-decoration: none;
+}
